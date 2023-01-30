@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @vinay
-- 
 - 👀 I’m interested in improving my coding skills
 - 🌱 I’m currently learning  c, c++, python, web development.
 
