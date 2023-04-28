@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @vinay
+- 👋 Hi, I’m Vinay
 - 👀 I’m interested in improving my coding skills
-- 🌱 I’m currently learning  c, c++, python, web development.
+- 🌱 I’m currently learning  c, c++, python, web development, C#.
 
 - 📫 How to reach me ... vinay.k.lpu@gmail.com
 
