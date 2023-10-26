@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vinay
 - 👀 I’m interested in improving my coding skills
-- 🌱 I’m currently learning  c, c++, python, web development, C#.
+- 🌱 I’m currently learning  C# and dotnet core with web API.
 
 - 📫 How to reach me ... vinay.k.lpu@gmail.com
 
